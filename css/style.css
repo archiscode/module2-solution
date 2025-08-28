@@ -75,7 +75,7 @@ h1 {
   }
   .box:nth-child(1),
   .box:nth-child(2) {
-    width: 48%; /* two in a row */
+    width: 46%; /* two in a row */
   }
   .box:nth-child(3) {
     width: 98%; /* full width row */
